@@ -110,15 +110,18 @@ Several constraints were placed on the selection of these instances from a large
     ```
 
 ## Usage
-
-1. Run the Streamlit app.
+1. Go to src path.
+    ```
+    cd src
+    ```
+2. Run the Streamlit app.
     ```
     streamlit run app.py
     ```
 
-2. Open your web browser and navigate to `http://localhost:8501`.
+3. Open your web browser and navigate to `http://localhost:8501`.
 
-3. Use the web interface to make disease predictions.
+4. Use the web interface to make disease predictions.
 
 ## Contributing
 
